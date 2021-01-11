@@ -19,7 +19,7 @@ For example, the partitions of 5:
 pip3 install partitions
 ```
 
-To run:
+To run on the command-line:
 
 ```sh
 $ partitions 11
